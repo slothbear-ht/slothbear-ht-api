@@ -7,13 +7,14 @@ const Authenticat = require('authenticat');
 const app = express();
 const PORT = process.env.PORT || 5555;
 
-// require routers
-
 const connection = mongoose.createConnection(process.env.MONGODB_URI || 'mongodb://localhost/slothbear_ht_DB');
 const authenticat = new Authenticat(connection);
 
+const htAuthRouter = require(__dirname + '/routes/ht_auth_router')(connection, authenticat);
+
 // router mounting
-app.use('/api', authenticat.router);
+app.use('/auth', authenticat.router);
+app.use('/auth', htAuthRouter);
 
 app.use(express.static('./build'));
 
