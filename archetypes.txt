@@ -1,0 +1,1568 @@
+﻿[post=16913260.1]
+
+
+The project was to explore single team assembly lines by breaking the training of each ‘ideal player’ into a repeatable 16 week block then simulating each position from 17 to 28.
+
+
+
+
+
+IMN (DE: 4 weeks , PM: 8 weeks, WI: 0 weeks, PS: 3 weeks, SC: 1 week)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Playmaking[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]passable (6.10)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]formidable (9.04)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.03)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3.57)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]excellent (8)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]brilliant (11.78)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]solid (7.81)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]weak (4.35)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]formidable (9.51)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]world class (13.67)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]formidable (9.24)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][i]inadequate (5.03)[/i][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]outstanding (10.67)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]titanic (15.15)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]outstanding (10.36)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][i]inadequate (5.61)[/i][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]brilliant (11.60)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]extra-terrestrial (16.27)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]brilliant (11.27)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]passable (6.15)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]magnificent (12.38)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]mythical (17.19)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]magnificent (12.05)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]passable (6.59)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+
+IMO (DE: 1 week, PM: 8 weeks, WI: 0 weeks, PS: 5 weeks, SC: 2 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Scoring[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3.38)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]formidable (9.04)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.68)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][i]inadequate (5.67)[/i][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]weak (4.10)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]brilliant (11.78)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]formidable (9.35)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]passable (6.85)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]weak (4.69)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]world class (13.67)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]brilliant (11.18)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]solid (7.83)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][i]inadequate (5.24)[/i][/td][/tr]
+[tr][th]Playmaking[/th][td][b]titanic (15.15)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]magnificent (12.54)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]excellent (8.70)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][i]inadequate (5.65)[/i][/td][/tr]
+[tr][th]Playmaking[/th][td][b]extra-terrestrial (16.27)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]world class (13.66)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]formidable (9.44)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]passable (6.09)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]mythical (17.19)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]supernatural (14.62)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]outstanding (10.09)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+
+IMD (DE: 6 weeks, PM: 7 weeks, WI: 0 weeks, PS: 2 weeks, SC: 1 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Playmaking[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]passable (6.62)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]excellent (8.80)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.69)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3.57)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]formidable (9.23)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]brilliant (11.34)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.97)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]weak (4.35)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]brilliant (11.04)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]world class (13.09)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]excellent (8.05)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][i]inadequate (5.03)[/i][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]magnificent (12.37)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]supernatural (14.48)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]formidable (9)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][i]inadequate (5.61)[/i][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]world class (13.56)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]titanic (15.59)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]formidable (9.78)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]passable (6.15)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]supernatural (14.49)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]extra-terrestrial (16.49)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]outstanding (10.43)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]passable (6.59)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+IMTW (DE: 3 weeks, PM: 8 weeks, WI: 4 weeks, PS: 1 weeks, SC: 0 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Playmaking[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Winger[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Passing[/th][td]poor (3)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][i]inadequate (5.83)[/i][/td][/tr]
+[tr][th]Playmaking[/th][td][b]formidable (9.04)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]passable (6.83)[/b][/td][/tr]
+[tr][th]Passing[/th][td]poor (3.5)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]solid (7.30)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]brilliant (11.78)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]formidable (9.55)[/b][/td][/tr]
+[tr][th]Passing[/th][td]weak (4.38)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]excellent (8.54)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]world class (13.67)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]brilliant (11.40)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.10)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]formidable (9.59)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]titanic (15.15)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]magnificent (12.80)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.69)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]outstanding (10.41)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]extra-terrestrial (16.27)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]world class (13.96)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.26)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]brilliant (11.12)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]mythical (17.19)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]supernatural (14.95)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.69)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+WIN (DE: 3 weeks, PM: 6 weeks, WI: 6 weeks, PS: 1 weeks, SC: 0 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Passing[/th][td]poor (3)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][i]inadequate (5.83)[/i][/td][/tr]
+[tr][th]Playmaking[/th][td][b]passable (6.88)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]formidable (9.18)[/b][/td][/tr]
+[tr][th]Passing[/th][td]poor (3.5)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]solid (7.30)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]formidable (9.73)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]magnificent (12.05)[/b][/td][/tr]
+[tr][th]Passing[/th][td]weak (4.38)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]excellent (8.54)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]brilliant (11.62)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]supernatural (14)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.10)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]formidable (9.59)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]world class (13.04)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]titanic (15.51)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.69)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]outstanding (10.41)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]supernatural (14.22)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]extra-terrestrial (16.71)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.26)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]brilliant (11.12)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]titanic (15.20)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]mythical (17.67)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.69)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+
+WIO (DE: 1 weeks, PM: 6 weeks, WI: 7 weeks, PS: 2 weeks, SC: 0 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3.38)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]passable (6.88)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]formidable (9.47)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.69)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]weak (4.10)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]formidable (9.73)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]magnificent (12.57)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.97)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]weak (4.69)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]brilliant (11.62)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]supernatural (14.41)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]excellent (8.05)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][[i]inadequate (5.24)[/i][/td][/tr]
+[tr][th]Playmaking[/th][td][b]world class (13.04)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]extra-terrestrial (16.05)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]formidable (9)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][i]inadequate (5.65)[/i][/td][/tr]
+[tr][th]Playmaking[/th][td][b]supernatural (14.22)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]mythical (17.39)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]formidable (9.78)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]passable (6.09)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]titanic (15.20)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]magical (18.37)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]outstanding (10.43)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+WID (DE: 7 weeks, PM: 2 weeks, WI: 6 weeks, PS: 1 weeks, SC: 0 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Passing[/th][td]poor (3)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]passable (6.87)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5.67)[/i][/td][/tr]
+[tr][th]Winger[/th][td][b]formidable (9.18)[/b][/td][/tr]
+[tr][th]Passing[/th][td]poor (3.5)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]formidable (9.73)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]passable (6.85)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]magnificent (12.05)[/b][/td][/tr]
+[tr][th]Passing[/th][td]weak (4.38)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]brilliant (11.64)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]solid (7.85)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]supernatural (14)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.10)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]world class (13.07)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]excellent (8.72)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]titanic (15.51)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.69)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]supernatural (14.24)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]formidable (9.48)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]extra-terrestrial (16.71)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.26)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]titanic (15.22)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]outstanding (10.13)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]mythical (17.67)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.69)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+
+WITM (DE: 1 weeks, PM: 8 weeks, WI: 5 weeks, PS: 2 weeks, SC: 0 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Winger[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3.38)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]formidable (9.04)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7.23)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.69)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]weak (4.10)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]brilliant (11.78)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]outstanding (10.40)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.97)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]weak (4.69)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]world class (13.67)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]magnificent (12.40)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]excellent (8.05)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][i]inadequate (5.24)[/i][/td][/tr]
+[tr][th]Playmaking[/th][td][b]titanic (15.15)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]world class (13.94)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]formidable (9)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][i]inadequate (5.65)[/i][/td][/tr]
+[tr][th]Playmaking[/th][td][b]extra-terrestrial (16.27)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]titanic (15.18)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]formidable (9.78)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]passable (6.09)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]mythical (17.19)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]extra-terrestrial (16.19)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]outstanding (10.43)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+
+CDN (DE: 9 weeks, PM: 5 weeks, WI: 1 weeks, PS: 1 weeks, SC: 0 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]formidable (9)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]passable (6.59)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3.63)[/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.35)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]brilliant (11.70)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]formidable (9.12)[/b][/td][/tr]
+[tr][th]Winger[/th][td]weak (4.58)[/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]world class (13.54)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]outstanding (10.90)[/b][/td][/tr]
+[tr][th]Winger[/th][td][i]inadequate (5.48)[/i][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.61)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]titanic (15.02)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]magnificent (12.22)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]passable (6.27)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]solid (7.15)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]extra-terrestrial (16.12)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]world class (13.30)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]solid (7.59)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]mythical (17.01)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]supernatural (14.22)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7.66)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]excellent (8.02)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+CDO (DE: 7 weeks, PM: 7 weeks, WI: 1 weeks, PS: 1 weeks, SC: 0 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Playmaking[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]passable (6.87)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]excellent (8.80)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3.63)[/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.35)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]formidable (9.73)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]brilliant (11.34)[/b][/td][/tr]
+[tr][th]Winger[/th][td]weak (4.58)[/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]brilliant (11.64)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]world class (13.09)[/b][/td][/tr]
+[tr][th]Winger[/th][td][i]inadequate (5.48)[/i][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.61)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]world class (13.07)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]supernatural (14.48)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]passable (6.27)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]solid (7.15)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]supernatural (14.24)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]titanic (15.59)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]solid (7.59)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]titanic (15.22)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]extra-terrestrial (16.49)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7.66)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]excellent (8.02)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+CDTW (DE: 8 weeks, PM: 2 weeks, WI: 5 weeks, PS: 1 weeks, SC: 0 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Winger[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Passing[/th][td]poor (3)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]excellent (8.78)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5.67)[/i][/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7.23)[/b][/td][/tr]
+[tr][th]Passing[/th][td]poor (3.5)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]brilliant (11.30)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]passable (6.85)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]outstanding (10.40)[/b][/td][/tr]
+[tr][th]Passing[/th][td]weak (4.38)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]world class (13.06)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]solid (7.85)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]magnificent (12.40)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.10)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]supernatural (14.44)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]excellent (8.72)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]world class (13.94)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.69)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]titanic (15.53)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]formidable (9.48)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]titanic (15.18)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.26)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]extra-terrestrial (16.41)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]outstanding (10.13)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]extra-terrestrial (16.19)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.69)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+CDCA (DE: 9 weeks, PM: 1 weeks, WI: 1 weeks, PS: 5 weeks, SC: 0 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]formidable (9)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5.33)[/i][/td][/tr]
+[tr][th]Winger[/th][td]poor (3.63)[/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.89)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]brilliant (11.70)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5.95)[/i][/td][/tr]
+[tr][th]Winger[/th][td]weak (4.58)[/td][/tr]
+[tr][th]Passing[/th][td][b]formidable (9.78)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]world class (13.54)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]passable (6.47)[/b][/td][/tr]
+[tr][th]Winger[/th][td][i]inadequate (5.48)[/i][/td][/tr]
+[tr][th]Passing[/th][td][b]brilliant (11.66)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]titanic (15.02)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]passable (6.27)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]world class (13.09)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]extra-terrestrial (16.12)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]solid (7.47)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]supernatural (14.26)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]mythical (17.01)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]solid (7.83)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7.66)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]titanic (15.23)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+WBN (DE: 8 weeks, PM: 2 weeks, WI: 5 weeks, PS: 1 weeks, SC: 0 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Winger[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Passing[/th][td]poor (3)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]excellent (8.78)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5.67)[/i][/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7.23)[/b][/td][/tr]
+[tr][th]Passing[/th][td]poor (3.5)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]brilliant (11.30)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]passable (6.85)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]outstanding (10.40)[/b][/td][/tr]
+[tr][th]Passing[/th][td]weak (4.38)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]world class (13.06)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]solid (7.85)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]magnificent (12.40)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.10)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]supernatural (14.44)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]excellent (8.72)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]world class (13.94)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.69)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]titanic (15.53)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]formidable (9.48)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]titanic (15.18)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.26)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]extra-terrestrial (16.41)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]outstanding (10.13)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]extra-terrestrial (16.19)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.69)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+WBO (DE: 7 weeks, PM: 2 weeks, WI: 6 weeks, PS: 1 weeks, SC: 0 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Passing[/th][td]poor (3)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]passable (6.87)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5.67)[/i][/td][/tr]
+[tr][th]Winger[/th][td][b]formidable (9.18)[/b][/td][/tr]
+[tr][th]Passing[/th][td]poor (3.5)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]formidable (9.73)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]passable (6.85)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]magnificent (12.05)[/b][/td][/tr]
+[tr][th]Passing[/th][td]weak (4.38)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]brilliant (11.64)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]solid (7.85)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]supernatural (14)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.10)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]world class (13.07)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]excellent (8.72)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]titanic (15.51)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.69)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]supernatural (14.24)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]formidable (9.48)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]extra-terrestrial (16.71)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.26)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]titanic (15.22)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]outstanding (10.13)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]mythical (17.67)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.69)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+WBD (DE: 9 weeks, PM: 2 weeks, WI: 4 weeks, PS: 1 weeks, SC: 0 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Winger[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Passing[/th][td]poor (3)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]formidable (9)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5.67)[/i][/td][/tr]
+[tr][th]Winger[/th][td][b]passable (6.83)[/b][/td][/tr]
+[tr][th]Passing[/th][td]poor (3.5)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]brilliant (11.70)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]passable (6.85)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]formidable (9.55)[/b][/td][/tr]
+[tr][th]Passing[/th][td]weak (4.38)[/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]world class (13.54)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]solid (7.85)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]brilliant (11.40)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.10)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]titanic (15.02)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]excellent (8.72)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]magnificent (12.80)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.69)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]extra-terrestrial (16.12)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]formidable (9.48)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]world class (13.96)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.26)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]mythical (17.01)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]outstanding (10.13)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]supernatural (14.95)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.69)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+WBCA (DE: 8 weeks, PM: 1 weeks, WI: 2 weeks, PS: 5 weeks, SC: 0 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td]poor (3)[/td][/tr]
+[tr][th]Winger[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]excellent (8.78)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td]poor (3.48)[/td][/tr]
+[tr][th]Winger[/th][td][i]inadequate (5.95)[/i][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.89)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]brilliant (11.30)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td]weak (4.27)[/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7.52)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]formidable (9.78)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]world class (13.06)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td]weak (4.95)[/td][/tr]
+[tr][th]Winger[/th][td][b]excellent (8.87)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]brilliant (11.66([/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]supernatural (14.44)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5.52)[/i][/td][/tr]
+[tr][th]Winger[/th][td][b]formidable (9.94)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]world class (13.09)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]titanic (15.53)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]passable (6.08)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]outstanding (10.78)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]supernatural (14.26)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td][b]extra-terrestrial (16.41)[/b][/td][/tr]
+[tr][th]Playmaking[/th][td][b]passable (6.54)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]brilliant (11.52)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]titanic (15.23)[/b][/td][/tr]
+[tr][th]Scoring[/th][td]poor (3)[/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+FWN (DE: 0 weeks, PM: 1 weeks, WI: 2 weeks, PS: 5 weeks, SC: 8 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td]poor (3)[/td][/tr]
+[tr][th]Winger[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Scoring[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td]poor (3.48)[/td][/tr]
+[tr][th]Winger[/th][td][i]inadequate (5.95)[/i][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.89)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]formidable (9.02)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td]weak (4.27)[/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7.52)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]formidable (9.78)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]brilliant (11.74)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td]weak (4.95)[/td][/tr]
+[tr][th]Winger[/th][td][b]excellent (8.87)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]brilliant (11.66)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]world class (13.61)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5.52)[/i][/td][/tr]
+[tr][th]Winger[/th][td][b]formidable (9.94)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]world class (13.09)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]titanic (15.10)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]passable (6.08)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]outstanding (10.78)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]supernatural (14.26)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]extra-terrestrial (16.10)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]passable (6.54)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]brilliant (11.52)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]titanic (15.23)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]mythical (17.03)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+FWD (DE: 0 weeks, PM: 6 weeks, WI: 1 weeks, PS: 7 weeks, SC: 2 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Winger[/th][td]poor (3)[/td][/tr]
+[tr][th]Passing[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]passable (6.88)[/b][/td][/tr]
+[tr][th]Winger[/th][td]poor (3.63)[/td][/tr]
+[tr][th]Passing[/th][td][b]excellent (8.92)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][i]inadequate (5.67)[/i][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]formidable (9.73)[/b][/td][/tr]
+[tr][th]Winger[/th][td]weak (4.58)[/td][/tr]
+[tr][th]Passing[/th][td][b]brilliant (11.59)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]passable (6.85)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]brilliant (11.62)[/b][/td][/tr]
+[tr][th]Winger[/th][td][i]inadequate (5.48)[/i][/td][/tr]
+[tr][th]Passing[/th][td][b]world class (13.40)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]solid (7.83)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]world class (13.04)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]passable (6.27)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]supernatural (14.85)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]excellent (8.70)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]supernatural (14.22)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]titanic (15.99)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]formidable (9.44)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]titanic (15.20)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7.66)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]extra-terrestrial (16.89)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]outstanding (10.09)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+
+
+
+FWTW (DE: 0 weeks, PM: 1 weeks, WI: 6 weeks, PS: 2 weeks, SC: 7 weeks)
+
+17.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td]poor (3)[/td][/tr]
+[tr][th]Winger[/th][td][b]solid (7)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Scoring[/th][td][i]inadequate (5)[/i][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+18.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td]poor (3.48)[/td][/tr]
+[tr][th]Winger[/th][td][b]formidable (9.18)[/b][/td][/tr]
+[tr][th]Passing[/th][td][i]inadequate (5.69)[/i][/td][/tr]
+[tr][th]Scoring[/th][td][b]solid(7.16)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+20.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td]weak (4.27)[/td][/tr]
+[tr][th]Winger[/th][td][b]magnificent (12.05)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]passable (6.97)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]outstanding (10.28)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+22.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td]weak (4.95)[/td][/tr]
+[tr][th]Winger[/th][td][b]supernatural (14)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]excellent (8.05)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]magnificent (12.27)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+24.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td][i]inadequate (5.52)[/i][/td][/tr]
+[tr][th]Winger[/th][td][b]titanic (15.51)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]formidable (9)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]world class (13.78)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+26.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]passable (6.08)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]extra-terrestrial (16.71)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]formidable (9.78)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]supernatural (14.96)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
+
+28.000-
+[table]
+[tr][th]Keeper[/th][td]disastrous (1)[/td][/tr]
+[tr][th]Defending[/th][td]poor (3)[/td][/tr]
+[tr][th]Playmaking[/th][td][b]passable (6.54)[/b][/td][/tr]
+[tr][th]Winger[/th][td][b]mythical (17.67)[/b][/td][/tr]
+[tr][th]Passing[/th][td][b]outstanding (10.43)[/b][/td][/tr]
+[tr][th]Scoring[/th][td][b]titanic (15.94)[/b][/td][/tr]
+[tr][th]Set Pieces[/th][td]disastrous (1)[/td][/tr]
+[/table]
